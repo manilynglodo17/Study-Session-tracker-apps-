@@ -3,9 +3,13 @@
 Study Session Tracker is a standalone Python application designed to help students efficiently organize their study sessions, track learning deliverables, and monitor academic progress per topic in one centralized system.
 
 The application allows users to:
+
 •Create and manage study sessions, including logging subject, topic, date, and duration.
+
 •Attach deliverables (assignments, outputs, readings) to each study session and mark them as completed.
+
 •Store and manage short notes or reminders related to each study session
+
 •View a summarized progress report per topic that presents all sessions and deliverables in a structured format. The report can be exported to a .txt file.
 
 Built with a clean command-line interface, the system emphasizes simplicity, usability, and accessibility. It operates entirely offline and follows a structured Input → Process → Output model, ensuring reliable performance without relying on external databases or internet connectivity.
