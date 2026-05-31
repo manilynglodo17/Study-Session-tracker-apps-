@@ -97,8 +97,7 @@ GitHub: https://github.com/[GoldeGitHubUsername]
 
 Glodo, Manilyn— Lead Developer, Database Manager
 
-GitHub: https://github.com/[GlodoGitHubUsername]
-
+GitHub:https://github.com/manilynglodo17
 Repository Link
 
 https://github.com/[RepositoryLink]
