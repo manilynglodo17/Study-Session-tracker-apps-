@@ -69,8 +69,10 @@ How to Run the Application
 1.Clone the repository:
 Git clone https://github.com/[RepositoryLink]
 Cd StudySessionTracker
+
 2.Run the application:
 Python main.py
+
 1.Run the testst
 Py -m pytest -v
 
