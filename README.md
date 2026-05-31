@@ -29,8 +29,11 @@ This project demonstrates core Object-Oriented Programming principles:
 •Modularity: Code is separated into models, services, interfaces, and tests folders for clean structure and maintainability.
 
 Technologies Used
+
 •Python (core programming language)
+
 •Command-Line Interface (CLI) for user interaction
+
 •File handling for saving and exporting session reports to .txt
 
 
